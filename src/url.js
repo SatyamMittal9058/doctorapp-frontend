@@ -1,1 +1,1 @@
-export const url="https://good-teal-scorpion-gear.cyclic.app"
+export const url="https://doctorapp-backend-1.onrender.com/"
